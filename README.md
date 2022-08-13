@@ -1,4 +1,4 @@
-# AlienBlackHJack
+# Alien BlackJack
 A  Scifi pinball table-inspired version of the classic card game created in Python
 
 This is a game expanded from an exercise In Tim Bulchlaka and Jean-Paul Robert's excellent Learn Python Programming Masterclass
